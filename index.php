@@ -4,6 +4,8 @@ require_once 'session.php';
 
 echo 'begin <br>';
 
+echo 'add foreach ';
+
 
 
 
